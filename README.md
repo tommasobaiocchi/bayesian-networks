@@ -87,3 +87,15 @@ You can test any of these by replacing the input path passed to the executable.
 - Computes marginal probabilities for each variable.
 - Supports networks with multiple parents and multiple values per variable.
 - Handles any well-formed `.bif` file.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+**Tommaso Baiocchi**  
+Bayesian Networks – Exact Inference in C++  
+GitHub: [@tommasobaiocchi](https://github.com/tommasobaiocchi)
