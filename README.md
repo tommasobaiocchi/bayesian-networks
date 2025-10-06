@@ -98,4 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 **Tommaso Baiocchi**  
 Bayesian Networks – Exact Inference in C++  
-GitHub: [@tommasobaiocchi](https://github.com/tommasobaiocchi)
