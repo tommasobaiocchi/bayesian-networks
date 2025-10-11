@@ -91,10 +91,3 @@ You can test any of these by replacing the input path passed to the executable.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-## Author
-
-**Tommaso Baiocchi**  
-Bayesian Networks – Exact Inference in C++  
