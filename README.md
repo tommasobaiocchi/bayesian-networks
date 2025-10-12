@@ -82,7 +82,6 @@ You can test any of these by replacing the input path passed to the executable.
 ## Features
 
 - Parses `.bif` files to construct the Bayesian network.
-- Represents variables, domains, parents, and conditional probability tables.
 - Performs exact inference via **variable elimination**.
 - Computes marginal probabilities for each variable.
 - Supports networks with multiple parents and multiple values per variable.
