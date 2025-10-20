@@ -1,6 +1,6 @@
 # Bayesian Network Inference Engine
 
-This project implements exact inference in **Bayesian networks** using the **Variable Elimination** algorithm.  
+This project implements exact inference in **Bayesian networks** using the **Variable Elimination** algorithm. 
 It is capable of parsing `.bif` files to construct a probabilistic graphical model and compute marginal distributions for each variable in the network.
 
 Written in C++17, the engine is fast, modular, and designed for educational, research, or experimental use.
