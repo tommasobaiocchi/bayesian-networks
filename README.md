@@ -6,7 +6,7 @@ It is capable of parsing `.bif` files to construct a probabilistic graphical mod
 Written in C++17, the engine is fast, modular, and designed for educational, research, or experimental use. 
  
 ---
-
+ 
 ## Features  
 
 - **Parses BIF** (Bayesian Interchange Format) files  
