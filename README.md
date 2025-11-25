@@ -46,7 +46,7 @@ bayesian-networks/
 
 To compile the program, run:
 
-```bash
+```bash 
 g++ -std=c++17 main.cpp -o bayes
 
 ```
