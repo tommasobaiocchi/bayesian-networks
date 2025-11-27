@@ -7,7 +7,7 @@ Written in C++17, the engine is fast, modular, and designed for educational, res
  
 ---
  
-## Features  
+## Features   
 
 - **Parses BIF** (Bayesian Interchange Format) files   
 - **Builds** the Bayesian network from variable declarations and CPTs  
