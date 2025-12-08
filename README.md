@@ -30,7 +30,7 @@ This project was developed as an inference engine capable of reading structured 
 ```
 bayesian-networks/
 ├── src/                    
-│   └── main.cpp             # Main program (parses, infers, prints)
+│   └── main.cpp             
 ├── bif/                     # BIF files (Bayesian networks)
 │   ├── cancer.bif
 │   ├── asia.bif
