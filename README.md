@@ -31,14 +31,14 @@ This project was developed as an inference engine capable of reading structured 
 bayesian-networks/
 ├── src/                    
 │   └── main.cpp             
-├── bif/                     # BIF files (Bayesian networks)
+├── bif/                     
 │   ├── cancer.bif
 │   ├── asia.bif
 │   ├── earthquake.bif
 │   ├── diabetes.bif
 │   └── water.bif
 ├── LICENSE
-├── README.md                # This file
+├── README.md               
 └── .gitignore
 ```
 
