@@ -13,7 +13,7 @@ Written in C++17, the engine is fast, modular, and designed for educational, res
 - **Builds** the Bayesian network from variable declarations and CPTs
 - **Performs exact inference** via variable elimination
 - Calculates **marginal probabilities** for each node
-- Fully **self-contained** C++ implementation 
+- Fully **self-contained** C++ implementation
 - Includes **real-world BIF examples**
   
 ---
