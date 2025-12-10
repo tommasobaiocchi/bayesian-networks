@@ -22,7 +22,7 @@ Written in C++17, the engine is fast, modular, and designed for educational, res
 
 Bayesian networks are powerful tools for modeling uncertainty, reasoning under incomplete information, and decision making.
 
-This project was developed as an inference engine capable of reading structured probabilistic models from `.bif` files and executing efficient exact inference using variable elimination. The code is entirely written from scratch in C++ to highlight algorithmic clarity, data structure design, and recursion-based factor manipulation.
+This project was developed as an inference engine capable of reading structured probabilistic models from `.bif` files and executing efficient exact inference using variable elimination. The code is entirely written from scratch in C++ to highlight algorithmic clarity, data structure design, and recursion-based factor manipulation. 
 
 ---
 
