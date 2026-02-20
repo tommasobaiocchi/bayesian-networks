@@ -9,11 +9,10 @@ Written in C++17, the engine is fast, modular, and designed for educational, res
 
 ## Features   
 
-- **Parses BIF** (Bayesian Interchange Format) files    
+- **Parses BIF** files    
 - **Builds** the Bayesian network from variable declarations and CPTs
 - **Performs exact inference** via variable elimination
 - Calculates **marginal probabilities** for each node
-- Fully **self-contained** C++ implementation 
 - Includes **real-world BIF examples**
   
 ---
@@ -42,15 +41,7 @@ bayesian-networks/
 └── .gitignore
 ```
 
-## Build Instructions
-
-To compile the program, run:
-
-```bash 
-g++ -std=c++17 main.cpp -o bayes
-
-```
-## Example Output (`cancer.bif`)
+## Example output (`cancer.bif`)
 
 ```
 Marginal Probability of Cancer:
@@ -65,27 +56,19 @@ Marginal Probability of Dyspnoea:
 P(Dyspnoea=yes) = 0.658
 P(Dyspnoea=no)  = 0.342
 ```
-## Included BIF Examples
+## Included BIF examples
 
 This repository includes several real or benchmark Bayesian networks in `.bif` format for demonstration and testing:
 
 - `cancer.bif` – Small diagnostic network (3–4 variables).
-- `asia.bif` – Classic 8-node benchmark network used in literature.
+- `asia.bif` – classic 8-node benchmark network used in literature.
 - `earthquake.bif` – Simple alarm-based dependency model.
-- `diabetes.bif` – Larger medical diagnosis network with realistic structure.
+- `diabetes.bif` – larger medical diagnosis network with realistic structure.
 - `water.bif` – Environmental risk assessment network.
 
 You can test any of these by replacing the input path passed to the executable.
 
 ---
-
-## Features
-
-- Parses `.bif` files to construct the Bayesian network.
-- Performs exact inference via **variable elimination**.
-- Computes marginal probabilities for each variable.
-- Supports networks with multiple parents and multiple values per variable.
-- Handles any well-formed `.bif` file.
 
 ## License
 
